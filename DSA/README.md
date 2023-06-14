@@ -32,3 +32,24 @@ Encapsulation - A concept that refers to the wrapping of code and data together 
 # Explain what a Binary Search Tree is.
 # Explain Doubly Linked Lists?
 # What is a Graph?
+# Explain overloading and overriding with the help of a program?
+Overloading: When a class has two or more methods with the same name, they are called overloaded methods.
+Overriding: When a superclass method is also implemented in the child class, it’s a case of overriding.
+# How do you remove all occurrences of a given character from the input string?
+Use the built-in string method “replace” to replace a character with any other character, including symbols and white spaces.
+String str1 = "Australia";
+
+str1 = str1.replace("a", "");
+# What are dynamic data structures?
+Dynamic data structures have the feature where they expand and contract as a program runs. It provides a very flexible method of data manipulation because adjusts based on the size of the data to be manipulated.
+
+# How does variable declaration affect memory?
+The amount of memory that is to be reserved or allocated depends on the data type being stored in that variable. 
+
+# Which sorting algorithm is the best?
+There are many types of sorting algorithms: bubble sort, quick sort, balloon sort, merge sort, radix sort, and more.
+No algorithm can be considered as the best or fastest because they have designed each for a specific type of data structure where it performs the best
+
+# What is a Deque?
+A deque is a double-ended queue.
+This is a structure in which elements can be inserted or removed from either end
