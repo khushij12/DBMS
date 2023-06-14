@@ -1,0 +1,5 @@
+1. Without using 3rd variable
+a = a-b
+b = a+b
+a = b-a
+
